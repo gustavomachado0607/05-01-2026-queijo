@@ -1,0 +1,86 @@
+/* #div1 label{
+    color: red;
+}
+
+#div1 input{
+    background-color: blue;
+}
+
+#div1 input::placeholder{
+    color: white;
+}
+
+#div2 label{
+    color: blue;
+}
+
+#div2 input{
+    background-color: red;
+}
+
+#div2 input::placeholder{
+    color: white;
+} */
+/* @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+ *{
+  font-family: "Indie Flower", cursive;
+
+
+}
+
+ 
+#paragrafo{
+    font-size: 34px;
+    font-weight: bold;
+    font-style: oblique;
+    line-height: 100px;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+}
+#sh{
+    font-size: 34px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 100px;
+    letter-spacing: 20px;
+    color: red;
+
+}
+#anchor{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+} */
+ /* *{
+    margin: 0;
+    padding: 0;
+ }
+#body{
+    display: flex;
+    background-color: red;
+    width: 100vw;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+ #div1{ 
+    background-color: blue;
+    width: 40vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12vw;
+
+ }
+ #div2{
+    background-color: blue;
+    width: 100vw;
+    height: 50vh;
+} */
+
+
+
